@@ -1,3 +1,8 @@
+/**
+ * cssと同じような記述ができる
+ * ただし、hoverが効かない
+ * sassのプラグインを追加することにより、補完することができる模様
+ */
 export const StyledJsx = () => {
   return (
     <>
