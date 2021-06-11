@@ -8,7 +8,7 @@ export const StyledJsx = () => {
     <>
       <div className="container">
         <p className="title">-Styled Jsx-</p>
-        <button className="button">FIGHT!!</button>
+        <button className="button">FIGHT!!(sassが使えない)</button>
       </div>
       <style jsx="true">{`
         .container {
